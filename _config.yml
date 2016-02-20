@@ -1,4 +1,7 @@
-layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -27,14 +30,11 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   lightness: 0.4732952495105565
-typography_spectrum: 0.1003584
+typography_spectrum: 0
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0
 favicon: null
 name: savagecats
